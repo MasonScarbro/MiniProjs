@@ -82,7 +82,3 @@ public class DerivPolyImproved {
 	}
 
 }
-// NOTES: Gonna have to use the iterator since right now its going backwards and screwing up the order of things
-// For the final string try string += string so partsList.get(i) += partsList.get(i) sort of
-// if their are more than one exponent single like 6x make sure it add them before
-// try changing the parts list to match the new exponents and numbers by using the set method
