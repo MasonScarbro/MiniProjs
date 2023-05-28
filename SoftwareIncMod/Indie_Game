@@ -452,7 +452,7 @@ SoftwareType
 					CodeArt    0
 					MaxFactor  6
 					Submarkets [ 1; 0; 4 ]
-					DependsOn  "Recorded dialog"
+					DependsOn  "Your Recorded dialog"
 					AmountScript "LocalizePlural(\"Hour\", x*2)"
 					}
 					{
