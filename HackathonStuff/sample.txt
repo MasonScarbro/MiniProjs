@@ -1,0 +1,21 @@
+Encryption Theory:
+
+Private Key Encrytpion: 
+
+Message: Hello my friend!
+Encryption 
+
+message - > hfmriednllo - > Message
+
+Public key Encryption:
+
+DES - Data Encryption Standard (56-bits) -Outdated
+AES - Advanced Encryption Standard (128-bits, 256, 512, 1024, 2048)
+
+
+keys in console:
+java Main -genKey
+
+java Main -encrypt plaintext encryptedtext myKey
+
+java Main -decrypt plaintext decryptedtext myKey
