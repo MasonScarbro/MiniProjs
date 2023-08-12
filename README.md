@@ -1,2 +1,2 @@
 # MiniProjs
-This Is A collection Of A ton Of smaller but noteworthy projects I will Try to keep the bullet points up to date for each file
+This Is A collection Of A ton Of smaller projects. Kept sorta like a Journal or notes to document my code
